@@ -1,0 +1,2 @@
+# SettingUpNFSHowTo
+# https://help.ubuntu.com/community/SettingUpNFSHowTo
